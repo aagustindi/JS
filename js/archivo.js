@@ -6,7 +6,7 @@ let empieza;
 
 
 do {
-    empieza = prompt("Bienvenido a Reserva tu cancha! \n Queres reservar ahora? ingresa ´s´");
+    empieza = prompt("Bienvenido a Reserva tu cancha! \n Queres reservar ahora? ingresa: s");
 
 } while (empieza != "s");
 
