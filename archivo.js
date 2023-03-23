@@ -2,6 +2,9 @@ let total = 0
 deporte= "";
 dia="";
 
+
+reservarCancha();
+
 function reservarCancha(){
 
     alert(
@@ -46,7 +49,7 @@ function reservarCancha(){
 
 }
 
-reservarCancha();
+
 
 function reservarDia(){
 
